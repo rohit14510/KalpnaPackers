@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahadevacargomovers.in/?sitemapindex.xml
+Sitemap: https://mahadevacargomovers.in/?sitemap548.xml
+Sitemap: https://mahadevacargomovers.in/?sitemap779.xml
+Sitemap: https://mahadevacargomovers.in/?sitemap516.xml
+Sitemap: https://mahadevacargomovers.in/?sitemap182.xml
+Sitemap: https://mahadevacargomovers.in/?sitemap56.xml
+Sitemap: https://mahadevacargomovers.in/amp.php?sitemap674.xml
+Sitemap: https://mahadevacargomovers.in/wp-content/search.php?sitemap346.xml
